@@ -1,6 +1,11 @@
 def m_sum(a,b):
     """
-    Загружает список вопросов из файла
     :return:
     """
-    return a+b
+    return a+b+600
+
+def m_subtraction(a,b):
+    """
+    :return:
+    """
+    return a-b
